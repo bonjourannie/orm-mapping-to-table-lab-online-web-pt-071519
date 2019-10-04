@@ -10,4 +10,8 @@ class Student
     @grade = grade 
     @id = id
   end
+  
+  def seld.create_table
+    
+  end
 end
